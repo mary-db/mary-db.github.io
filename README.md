@@ -1,2 +1,2 @@
-# myrepo
-A line I wrote on my local computer  
+# mary-db.github.io
+Repository for Mary de Boer's web page
