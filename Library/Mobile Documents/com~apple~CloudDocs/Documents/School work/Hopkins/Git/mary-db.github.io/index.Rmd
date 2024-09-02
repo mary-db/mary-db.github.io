@@ -1,0 +1,55 @@
+---
+title: "Mary de Boer"
+image: "MaryTuktuk.JPG"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/marydeboer/"
+  - label: GitHub
+    url: "https://github.com/mary-db/"
+  - label: Email
+    url: "mailto:mdeboer5@jh.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Mary de Boer, MSc., is a global public health professional with more than 13 years
+experience working with local and international non-governmental organizations and
+bilateral donors.  Her work has taken her to Latin America, Sub-Saharan Africa, 
+Central Asia, and South Asia.  Mary's current focus is on implementation science, 
+examining the lessons learned from an ongoing randomized controlled trial of a 
+maternal nutrition intervention -- Balanced Energy Protein (BEP) supplementation --
+in rural northwestern Bangladesh.  Mary has experience in both qualitative and 
+quantitative research methods, economic analysis, program design, training 
+development and delivery, and leadership and management. 
+
+## Education
+
+**Johns Hopkins Bloomberg School of Public Health** | Baltimore, MD
+
+Ph.D. in International Health - Human Nutrition | August 2022 - May 2026 (expected)
+
+**The London School of Economics** | London, UK
+
+M.Sc. in Health, Community and Development | September 2009 - December 2010
+
+**Pomona College** | Claremont, CA
+
+B.A. in English Literature; Premedical Sciences track | August 2003 - May 2007
+
+## Experience
+
+**USAID** | Foreign Service Officer | August 2011 - Present
+
+**National Cancer Institute: Center to Reduce Cancer Health Disparities** | 
+Health Communications Fellow | January 2011 - July 2011
+
+**MEA Foundation Buguruni** | Program Evaluator | July 2008 - May 2009
+
+**Swarthmore College** | Undergraduate Writing Program Coordinator | August 2007 - June 2008
+
+**Pomona College** | Writing Fellow and Teaching Assistant | August 2004 - June 2007
+
+**Cleveland Clinic Foundation** | Summer Undergraduate Research Program | June 2005 - August 2005
+
