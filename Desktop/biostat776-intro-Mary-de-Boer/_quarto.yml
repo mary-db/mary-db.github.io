@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Very Mary"
+  navbar:
+    right:
+      - about.qmd
+      - icon: envelope
+        href: mdeboer5@jh.edu
+      - icon: github
+        href: https://mary-db.github.io/
+      - icon: linkedin
+        href: https://www.linkedin.com/in/marydeboer/
+      - icon: rss
+        href: index.xml
+format:
+  html:
+    theme: minty
+    css: styles.css
+
+editor: visual
