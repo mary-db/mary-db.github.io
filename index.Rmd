@@ -4,8 +4,6 @@ image: "MaryTuktuk.JPG"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/marydeboer/"
-  - label: GitHub
-    url: "https://github.com/mary-db/"
   - label: Email
     url: "mailto:mdeboer5@jh.edu"
 output:
@@ -14,7 +12,7 @@ output:
  
 ## Bio
 
-Mary de Boer, MSc., is a global public health professional with more than 13 years
+Mary de Boer, MSc., is a global public health professional with more than 15 years
 experience working with local and international non-governmental organizations and
 bilateral donors.  Her work has taken her to Latin America, Sub-Saharan Africa, 
 Central Asia, and South Asia.  Mary's current focus is on implementation science, 
@@ -28,7 +26,7 @@ development and delivery, and leadership and management.
 
 **Johns Hopkins Bloomberg School of Public Health** | Baltimore, MD
 
-Ph.D. in International Health - Human Nutrition | August 2022 - May 2026 (expected)
+Ph.D. in International Health - Human Nutrition | August 2022 - June 2025 (expected)
 
 **The London School of Economics** | London, UK
 
