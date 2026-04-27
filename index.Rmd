@@ -5,7 +5,9 @@ links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/marydeboer/"
   - label: Email
-    url: "mailto:mdeboer5@jh.edu"
+    url: "mailto:mdeboer@stanford.edu"
+  - label: Research
+    url: "lca_vulnerability.html"
 output:
   postcards::trestles
 ---
@@ -26,7 +28,7 @@ development and delivery, and leadership and management.
 
 **Johns Hopkins Bloomberg School of Public Health** | Baltimore, MD
 
-Ph.D. in International Health - Human Nutrition | August 2022 - June 2025 (expected)
+Ph.D. in International Health - Human Nutrition | August 2022 - July 2025
 
 **The London School of Economics** | London, UK
 
@@ -38,7 +40,11 @@ B.A. in English Literature; Premedical Sciences track | August 2003 - May 2007
 
 ## Experience
 
-**USAID** | Foreign Service Officer | August 2011 - Present
+**Stanford University Woods Institute for the Environment** | Postdoctoral Fellow | March 2026 - Present
+
+**Johns Hopkins Bloomberg School of Public Health** | Postdoctoral Fellow | September 2025 - February 2026
+
+**USAID** | Foreign Service Officer | August 2011 - July 2025
 
 **National Cancer Institute: Center to Reduce Cancer Health Disparities** | 
 Health Communications Fellow | January 2011 - July 2011
