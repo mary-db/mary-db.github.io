@@ -12,5 +12,12 @@ Built with R Markdown + GitHub Pages.
 - `/projects` — research project write-ups
 - `/code` — analysis scripts
 
+## 🔒 Note on Data & Unpublished Work
+Some of my research involves data governed by data use agreements and
+institutional review board (IRB) protocols. Code shared in this
+repository reflects analytic approach and methods; underlying datasets
+are not publicly available unless explicitly noted. For published
+work, see citations and links within each project folder.
+
 ## 📫 Contact
 See the [website](https://mary-db.github.io) for contact links.
