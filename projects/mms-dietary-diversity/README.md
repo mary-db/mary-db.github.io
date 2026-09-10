@@ -22,8 +22,13 @@ supplementation may offer the most benefit to already vulnerable groups.
 - Interaction between DDS and MMS tested for effect on low birth weight
 
 ## Code
-Analysis script (`/code/analysis_script.R`) includes the regression 
-models and interaction testing used to generate the paper's results.
+Analysis script: 
+[`mms_dietary_diversity_analysis.R`](../../code/mms-dietary-diversity/mms_dietary_diversity_analysis.R)
+
+This script includes the descriptive statistics, GEE regression models, 
+and interaction testing used to generate the paper's results. Note: 
+the data-cleaning/derivation script is not included, as it was built 
+around restricted individual-level trial data (see Data section below).
 
 ## Data
 Data are from the JiVitA-3 trial and are governed by a data use 
