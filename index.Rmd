@@ -1,6 +1,6 @@
 ---
 title: "Mary de Boer"
-image: "MaryTuktuk.JPG"
+image: "images/MaryTuktuk.JPG"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/marydeboer/"
