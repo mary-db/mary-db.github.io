@@ -1,5 +1,4 @@
-# Dietary Diversity as a Modifier of Multiple Micronutrient 
-# Supplementation Effects on Low Birth Weight
+# Dietary Diversity as a Modifier of Multiple Micronutrient Supplementation's Effect on Low Birth Weight
 
 **Published in:** American Journal of Clinical Nutrition (AJCN)
 **Authors:** Mary de Boer, Andrew L. Thorne-Lyman, Abu Ahmed Shamim, 
