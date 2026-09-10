@@ -7,7 +7,7 @@ links:
   - label: Email
     url: "mailto:mdeboer@stanford.edu"
   - label: Research
-    url: "lca_vulnerability.html"
+    url: "https://orcid.org/0009-0009-6774-7903"
 output:
   postcards::trestles
 ---
