@@ -1,2 +1,18 @@
-# mary-db.github.io
-Repository for Mary de Boer's web page
+# Mary de Boer — Personal Website & Research Repository
+
+This repository contains the source code for my personal website
+([mary-db.github.io](https://mary-db.github.io)) as well as selected
+data, code, and materials from my research projects.
+
+## 🌐 Website
+Built with R Markdown + GitHub Pages.
+
+## 📁 Structure
+- `index.Rmd` / `index.html` — homepage
+- `lca_vulnerability.Rmd` — LCA vulnerability analysis page
+- `/projects` — research project write-ups
+- `/data` — datasets used in analyses
+- `/code` — analysis scripts
+
+## 📫 Contact
+See the [website](https://mary-db.github.io) for contact links.
