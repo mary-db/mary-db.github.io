@@ -9,9 +9,7 @@ Built with R Markdown + GitHub Pages.
 
 ## 📁 Structure
 - `index.Rmd` / `index.html` — homepage
-- `lca_vulnerability.Rmd` — LCA vulnerability analysis page
 - `/projects` — research project write-ups
-- `/data` — datasets used in analyses
 - `/code` — analysis scripts
 
 ## 📫 Contact
